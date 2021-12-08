@@ -105,5 +105,5 @@ function balaoRosa() {
   rosa.addImage(imagem_balaoRosa);
   rosa.velocityX = 3;
   rosa.lifetime = 150;
-  rosa.scale = 0.1;
+  rosa.scale = 1.5;
 }
